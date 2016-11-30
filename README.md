@@ -63,10 +63,10 @@
 
 ### API and applications
 #### @Path [Javadoc](https://docs.oracle.com/javaee/7/api/javax/ws/rs/Path.html) [Example](frontend-jquery-bootstrap/src/main/java/hu/ulyssys/rest/SportTypeService.java)
-Elérési út
+        Elérési út
 
 #### @GET [Java API](https://docs.oracle.com/javaee/7/api/javax/ws/rs/GET.html) [Example](frontend-jquery-bootstrap/src/main/java/hu/ulyssys/rest/SportTypeService.java)
-Válasz egy HTTP GET kérésre 
+        Válasz egy HTTP GET kérésre 
 
 #### @POST [Java API](https://docs.oracle.com/javaee/7/api/javax/ws/rs/POST.html)
 Válasz egy HTTP POST kérésre 
