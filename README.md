@@ -62,26 +62,26 @@
 [Oracle Java EE 7 tutorial](https://docs.oracle.com/javaee/7/tutorial/partwebsvcs.htm#BNAYK)
 
 ### API and applications
-#### @Path [Javadoc](https://docs.oracle.com/javaee/7/api/javax/ws/rs/Path.html) [Example](frontend-jquery-bootstrap/src/main/java/hu/ulyssys/rest/SportTypeService.java)
-        Elérési út
+#### @Path [Javadoc](https://docs.oracle.com/javaee/7/api/javax/ws/rs/Path.html), [Example](frontend-jquery-bootstrap/src/main/java/hu/ulyssys/rest/SportTypeService.java)
+    Elérési út
 
-#### @GET [Java API](https://docs.oracle.com/javaee/7/api/javax/ws/rs/GET.html) [Example](frontend-jquery-bootstrap/src/main/java/hu/ulyssys/rest/SportTypeService.java)
-        Válasz egy HTTP GET kérésre 
+#### @GET [Java API](https://docs.oracle.com/javaee/7/api/javax/ws/rs/GET.html), [Example](frontend-jquery-bootstrap/src/main/java/hu/ulyssys/rest/SportTypeService.java)
+    Válasz egy HTTP GET kérésre 
 
 #### @POST [Java API](https://docs.oracle.com/javaee/7/api/javax/ws/rs/POST.html)
-Válasz egy HTTP POST kérésre 
+    Válasz egy HTTP POST kérésre 
 
 #### @PUT [Java API](https://docs.oracle.com/javaee/7/api/javax/ws/rs/GET.html)
-Válasz egy HTTP PUT kérésre 
+    Válasz egy HTTP PUT kérésre 
 
 #### @DELETE [Java API](https://docs.oracle.com/javaee/7/api/javax/ws/rs/DELETE.html)
-Válasz egy HTTP DELETE kérésre 
+    Válasz egy HTTP DELETE kérésre 
 
 #### @HEAD [Java API](https://docs.oracle.com/javaee/7/api/javax/ws/rs/HEAD.html)
-Válasz egy HTTP HEAD kérésre 
+    Válasz egy HTTP HEAD kérésre 
 
 #### @PathParam [Java API](https://docs.oracle.com/javaee/7/api/javax/ws/rs/PathParam.html) 
-URL path paraméter elérés
+    URL path paraméter elérés
 
 #### @QueryParam [Java API](https://docs.oracle.com/javaee/7/api/javax/ws/rs/QueryParam.html)
 
@@ -90,13 +90,13 @@ URL path paraméter elérés
 
 
 #### @Produces [Java API](https://docs.oracle.com/javaee/7/api/javax/ws/rs/Produces.html)
-Output típus meghatározása
+    Output típus meghatározása
 
 #### @Provider [Java API](https://docs.oracle.com/javaee/7/api/javax/ws/rs/Provider.html)
 
 
 #### @ApplicationPath [Java API](https://docs.oracle.com/javaee/7/api/javax/ws/rs/ApplicationPath.html)
-Alkalmazás URL
+    Alkalmazás URL
 
 #### @Context[Java API]()
 
