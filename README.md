@@ -110,24 +110,26 @@
 [Bevezető](https://hu.wikipedia.org/wiki/JavaScript)
 
 ### Education material
-[MDN](https://developer.mozilla.org/hu/docs/Web/JavaScript)
-[DOM](https://developer.mozilla.org/hu/docs/Web/API/Document_Object_Model/Introduction)
-[JSON](https://developer.mozilla.org/hu/docs/Web/JavaScript/Reference/Global_Objects/JSON)
-[Ajax](https://developer.mozilla.org/en-US/docs/AJAX)
-[XMLHTTPRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
+#### JavaScript alapok [MDN](https://developer.mozilla.org/hu/docs/Web/JavaScript)
+#### DOM alapok [MDN](https://developer.mozilla.org/hu/docs/Web/API/Document_Object_Model/Introduction)
+#### DOM alapok [JSON](https://developer.mozilla.org/hu/docs/Web/JavaScript/Reference/Global_Objects/JSON)
+#### AJAX [MDN](https://developer.mozilla.org/en-US/docs/AJAX)
 
-### Mintaprojekt elemek
+
+### API and applications
+#### JavaScript esemény kezelés [MDN](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+#### XMLHTTPRequest [MDN (API)](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) [MDN (Example)](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
 
 ## jQuery
 
-### Mintaprojekt elemek
+### API and applications
 
 ## Angular2
 
-### Mintaprojekt elemek
+### API and applications
 
 ## React
 
-### Mintaprojekt elemek
+### API and applications
 
 ## SPA (Single Page Applications)
